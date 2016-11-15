@@ -25,6 +25,10 @@ gem 'paperclip'
 gem 'aws-sdk', '< 2.0'
 
 gem 'masonry-rails', '~> 0.2.0'
+
+gem 'will_paginate', '~> 3.0.5'
+
+gem 'will_paginate-bootstrap'
 # Use Redis adapter to run Action Cable in production
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
