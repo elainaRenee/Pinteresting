@@ -1,0 +1,2 @@
+# Pinteresting
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0b607515112949d4942e7439973fc39a)](https://www.codacy.com/app/elainaRenee/Pinteresting?utm_source=github.com&utm_medium=referral&utm_content=elainaRenee/Pinteresting&utm_campaign=badger)
