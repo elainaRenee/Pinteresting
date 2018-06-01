@@ -1,2 +1,2 @@
 # Pinteresting
-A pinterest-like application built with Ruby on Rails. This application is the outcome of a ruby class I took online (https://onemonth.com/).
+A pinterest-like application built with Ruby on Rails. The development of this application was guided by a Ruby class I took online (https://onemonth.com/).
